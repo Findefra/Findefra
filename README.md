@@ -17,8 +17,10 @@ Organized by four domains: `Application` · `Infrastructure` · `Automation` · 
 
 #### Portfolio
 
-[**fde-portfolio**](https://github.com/Findefra/fde-portfolio) — Forward Deployed Engineer engagement simulations (discovery → architecture → working system → evaluation → handoff)
+[**FDE-Portfolio**](https://github.com/Findefra/FDE-Portfolio) — Forward Deployed Engineer engagement simulations (discovery → architecture → working system → evaluation → handoff)
 
 ---
 
 Open to Platform Engineering, Forward Deployed Engineering, and related roles.
+
+---
